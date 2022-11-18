@@ -1,3 +1,3 @@
 # Calculator
-a calculator created with javascript , CSS and html
+a calculator created with javaScript , CSS and HTML
 http://talhacalculator.surge.sh
